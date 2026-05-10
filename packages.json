@@ -1,0 +1,12 @@
+{
+  "stable": {
+    "main": [
+    	{"name": "firefox", "version": "150.0.2", "url": "main/firefox.una", "hash": "26ed601a2875b531b4da2bf7eacb197ac8eae37f632a0e81a71148c2c78c7559"}
+    ],
+    "contrib": [],
+    "non-free": [
+        {"name": "discord", "version": "1.0.137", "url": "non-free/discord.una", "hash": "b87999c46adfc30e296fcd8797643884064326be19f566844734ecc9cd3b121d"}
+    ]
+  }
+}
+
