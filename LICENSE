@@ -1,0 +1,44 @@
+Altha Project License (APL)
+
+Version 1.2 — May 2026
+1. DEFINITIONS
+
+    "The Company": Refers to Altha36.
+
+    "The Work": Any software, source code, or assets provided by The Company.
+
+    "Proprietary Core": Original, closed-source components owned by The Company.
+
+    "Fork": Any copy or derivative version of The Work created by a third party.
+
+2. HYBRID ARCHITECTURE & COMPATIBILITY
+
+    2.1. Independent Status: Proprietary Core components are independent works. They are not subject to the licenses of bundled Third-Party Components (e.g., GPL/MIT).
+
+    2.2. Modification Shield: Any optimizations or integration logic created by The Company are considered Proprietary unless stated otherwise.
+
+3. FORKING, REDISTRIBUTION & PERSISTENCE
+
+If a project's documentation (README) explicitly permits forking, the following conditions apply:
+
+    3.1. License Inheritance: Any Fork or derivative of The Work must be distributed under this same Altha Project License (APL). You may not re-license The Work under any other license (e.g., MIT, GPL, Apache) without written consent from Altha36.
+
+    3.2. Mandatory Attribution: All original Copyright notices, headers, and "Powered by Altha36" or "Altha Project" mentions must remain intact in the source code and the final user interface.
+
+    3.3. License Inclusion: A copy of this License and the original NOTICE file must be included in the root directory of any Fork.
+
+4. COMPONENT STRIPPING ON COMMERCIAL USE
+
+    4.1. Non-Commercial Forks: Forks are permitted for personal/educational use provided they follow Section 3.
+
+    4.2. Commercial Reversion: If you sell or distribute a commercial version of a software modified by The Company, you must strip all Altha Enhancements/Optimizations and revert the software to its original upstream version. You may not profit from Altha36’s proprietary logic or specific performance tweaks.
+
+5. BRANDING & TRADEMARKS
+
+    5.1. Exclusive Ownership: Names (Altha36, UincOS, Una, GatiHost) are trademarks of The Company.
+
+    5.2. Trademark Removal: While the APL license must stay, you must remove official logos and branding assets from Forks to avoid user confusion, unless the Fork is an official Altha36 distribution.
+
+6. NO WARRANTY & LIMITATION OF LIABILITY
+
+THE SOFTWARE IS PROVIDED "AS IS". ALTHA36 SHALL NOT BE LIABLE FOR ANY DAMAGES ARISING FROM THE USE OR REDISTRIBUTION OF THE WORK.
